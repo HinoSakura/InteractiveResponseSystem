@@ -1,0 +1,109 @@
+{
+  "Affairs": {
+    "Academic": {
+      "112": {
+        "Course": {
+          "00001": {
+            "Activity": {
+              "ActivityID": {
+                "Closetime": "20",
+                "IsStart": false,
+                "OpenOrClose": false,
+                "Opentime": "",
+                "Participants": {
+                  "R1006008": true,
+                  "StudentID1": true,
+                  "StudentID2": true
+                },
+                "QuestionBankID": "001"
+              }
+            },
+            "AnswerQuestions": {
+				
+			},
+            "CourseName": "Flutter",
+            "Credit": 3,
+            "Department": "系所1",
+            "DiscussionBoard": {
+				
+			},
+            "Grade": 1,
+            "QuestionBank": {
+              "001": {
+                "Question": {
+                  "-O1pHcJwABUcrxIW4_AC": {
+                    "Options": [
+                      {
+                        "OptionsContent": "ListView",
+                        "YesOrNo": true
+                      },
+                      {
+                        "OptionsContent": "Column",
+                        "YesOrNo": false
+                      },
+                      {
+                        "OptionsContent": "Row",
+                        "YesOrNo": false
+                      },
+                      {
+                        "OptionsContent": "Container",
+                        "YesOrNo": false
+                      }
+                    ],
+                    "QuestionContent": "在Flutter中，哪一個Widget可以用來建立一個可捲動的列表？"
+                  },
+
+                },
+                "QuestionBankName": "題庫名稱1"
+              },
+               },
+            "RequiredElective": "必修",
+            "RollCall": {
+				
+			},
+            "Student": [
+              "R1234567",
+            ],
+            "Teacher": [
+              "S12345",
+            ]
+          }
+        }
+      }
+    }
+  },
+  "Personnel": {
+    "Manager": {
+      "ManagerID": "管理者1",
+      "ManagerName": "管理者姓名"
+    },
+    "Student": {
+      "R1234567": {
+        "Email": "r1234567@xx.xx.xx.tw",
+        "Gender": "男",
+        "Phone": "電話1",
+        "StudentName": "Hino",
+        "TakeCourses": "",
+        "TeacherID": ""
+      },
+    },
+    "Teacher": {
+      "S12345": {
+        "Email": "email1",
+        "Gender": "男",
+        "GuideStudents": {
+          "StudentID": "R1234567"
+        },
+        "Phone": "電話1",
+        "TeachSubject": {
+          "112": {
+            "00001": {
+              "CourseName": "Flutter"
+            }
+          }
+        },
+        "TeacherName": "Sakura"
+      },
+    }
+  }
+}
