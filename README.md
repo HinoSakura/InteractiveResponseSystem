@@ -40,6 +40,22 @@
     •    企業 - 讓企業講師能夠透過測驗即時掌握學員學習狀況。  
     •    其他 - 因應各種教學、學習環境。  
 
+## 🛠 技術架構
+前端框架：Flutter  
+後端與資料庫：Firebase
+
+## 📦 環境安裝與設定
+
+1️⃣ 安裝 Flutter 環境
+請先安裝 Flutter SDK，參考官方文件：[Flutter](https://docs.flutter.dev/)  
+
+2️⃣ 設定 Firebase  
+1.到 Firebase Console 新增專案  
+2.啟用 Firebase Authentication（Email/Password 登入）  
+3.設定 Firebase Realtime Database，並調整讀寫權限  
+4.下載 google-services.json（Android）或 GoogleService-Info.plist（iOS），放入 android/app/ 或 ios/Runner/ 目錄  
+參考文件 : [Firebase](https://firebase.google.com/docs/flutter/setup?hl=zh-tw&platform=ios)
+
 
 ## 🚀 實作畫面：  
 
