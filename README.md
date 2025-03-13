@@ -53,14 +53,10 @@
             <figcaption style="display:block; text-align: center;">登入介面</figcaption>
         </figure>
     </td>
-
-    <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" width="100"></td>
-    <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="100"></td>
   </tr>
   <tr>
-    <td><img src="圖片URL4" alt="圖片描述4" width="100"></td>
-    <td><img src="圖片URL5" alt="圖片描述5" width="100"></td>
-    <td><img src="圖片URL6" alt="圖片描述6" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="100"></td>
   </tr>
 </table>
 
