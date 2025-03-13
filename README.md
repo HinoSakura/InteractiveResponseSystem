@@ -1,5 +1,5 @@
 # InteractiveResponseSystem
-即時反饋系統 (IRS) - 基於形成性評估的教學互動系統
+
 
 ## 📝 系統介紹
 
