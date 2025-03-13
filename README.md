@@ -49,7 +49,14 @@
 1️⃣ 安裝 Flutter 環境
 請先安裝 Flutter SDK，參考官方文件：[Flutter](https://docs.flutter.dev/)  
 
-2️⃣ 設定 Firebase  
+2️⃣
+
+3️⃣ 套件安裝  
+```bash
+flutter pub get
+```
+
+4️⃣ 設定 Firebase  
 1.到 Firebase Console 新增專案  
 2.啟用 Firebase Authentication（Email/Password 登入）  
 3.設定 Firebase Realtime Database，並調整讀寫權限  
