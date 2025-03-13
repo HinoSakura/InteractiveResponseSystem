@@ -49,7 +49,7 @@
   <!-- 新增一行用來放置輸入框 -->
   <tr>
     <td colspan="2">
-      <label for="contentInput">請填入內容：</label>
+      <label for="contentInput">登入介面 </label>
       <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
     </td>
   </tr>
@@ -60,10 +60,24 @@
         <img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" width="200">
     </td>
   </tr>
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="2">
+      <label for="contentInput">選擇介面 </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
   <tr>
     <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" width="100"></td>
     <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/83c4f29d-4d0f-45ac-a51e-598528389d0b" alt="圖片描述3" width="100"></td>
   </tr>
+
 </table>
 
 
@@ -73,7 +87,7 @@
 
 
 
-![image](https://github.com/user-attachments/assets/83c4f29d-4d0f-45ac-a51e-598528389d0b)
+![image]()
 ![image](https://github.com/user-attachments/assets/3e0dcb3f-556b-4276-abb4-b0e8e9ea5a1f)
 ![image](https://github.com/user-attachments/assets/1d73fd03-67e8-4adb-b5d4-a049527fbe39)
 ![image](https://github.com/user-attachments/assets/58149af6-87c5-45a4-abc7-7acb0fa8f5c7)
