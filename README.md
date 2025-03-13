@@ -49,7 +49,7 @@
 1️⃣ 安裝 Flutter 環境
 請先安裝 Flutter SDK，參考官方文件：[Flutter](https://docs.flutter.dev/)  
 
-2️⃣
+2️⃣ 專案下載
 
 3️⃣ 套件安裝  
 ```bash
