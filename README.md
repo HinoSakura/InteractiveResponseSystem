@@ -45,8 +45,11 @@
 📌 其他 - 因應各種教學、學習環境。  
 
 
-![image](https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519)
-![image](https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7)
+<img src="![image](https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519)" alt="登入介面" style="display:inline-block; margin-right:10px;">
+<img src="![image](https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7)" alt="圖片描述2" style="display:inline-block;">
+
+
+
 ![image](https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806)
 ![image](https://github.com/user-attachments/assets/83c4f29d-4d0f-45ac-a51e-598528389d0b)
 ![image](https://github.com/user-attachments/assets/3e0dcb3f-556b-4276-abb4-b0e8e9ea5a1f)
