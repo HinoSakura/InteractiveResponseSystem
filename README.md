@@ -65,9 +65,9 @@
 <table border="1" cellpadding="5" cellspacing="0">
   <!-- 新增一行用來放置輸入框 -->
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <label for="contentInput">選擇介面 </label>
-      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 30px;">
     </td>
   </tr>
 
