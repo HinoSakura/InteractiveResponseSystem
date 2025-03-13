@@ -45,9 +45,18 @@
 📌 其他 - 因應各種教學、學習環境。  
 
 
-<img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" alt="登入介面" style="display:inline-block; margin-right:10px;">
-<img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" style="display:inline-block;">
-<img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述2" style="display:inline-block;">
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" alt="圖片描述1" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="圖片URL4" alt="圖片描述4" width="100"></td>
+    <td><img src="圖片URL5" alt="圖片描述5" width="100"></td>
+    <td><img src="圖片URL6" alt="圖片描述6" width="100"></td>
+  </tr>
+</table>
 
 
 
