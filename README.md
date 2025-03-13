@@ -73,9 +73,9 @@
 
   <!-- 圖片顯示的行 -->
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7" alt="圖片描述2" width="200"; height ="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="200"; height ="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/83c4f29d-4d0f-45ac-a51e-598528389d0b" alt="圖片描述3" width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/860cb9f2-3380-4a4f-8c2e-0d148fc4b4f7"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/83c4f29d-4d0f-45ac-a51e-598528389d0b"  width="200"; height ="350"></td>
   </tr>
 
 </table>
@@ -84,7 +84,7 @@
   <!-- 新增一行用來放置輸入框 -->
   <tr>
     <td colspan="3">
-      <label for="contentInput">新增題目 </label>
+      <label for="contentInput">題目 </label>
       <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
     </td>
   </tr>
@@ -97,23 +97,112 @@
 
 </table>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">題庫 </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/58149af6-87c5-45a4-abc7-7acb0fa8f5c7"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/d9ff0d15-ee82-4ce7-9a12-5a77f9fe3711"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/e445a465-9216-482d-b010-42b755224214"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">即時互動(老師) </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7e3f6e7b-d9f4-42d9-afd9-dce12f53991c"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/ccba2090-b2d8-4bb7-ba45-8d4c2c5c3f94"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">即時互動(學生) </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4477dc12-29d6-41cf-b4ed-ae63707592c2"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/f9c73516-e52d-49ee-9a27-aa026372df58"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/f7cd91aa-402e-4862-bd6d-44ba8b93fd03"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">查閱紀錄(老師) </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bed322f8-370d-4222-860b-eb8d323b7b64"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/9ff8fa03-5c47-43af-a185-bf6e1ae3e7ec"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/8700b0e8-4619-4cab-a7ca-8bef4c09dded"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">查閱紀錄(學生) </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/fa662fbe-e8f1-4b1d-a918-89bb71489b72"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/4965225c-5ee1-49ed-8ffd-801692338aea"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/4f8b4103-934a-4a43-855c-9c6b30cbbd93"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">討論版 </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ef80c189-983c-46cf-a2cb-529e8c62c344"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
 
 
-![image](https://github.com/user-attachments/assets/58149af6-87c5-45a4-abc7-7acb0fa8f5c7)
-![image](https://github.com/user-attachments/assets/d9ff0d15-ee82-4ce7-9a12-5a77f9fe3711)
-![image](https://github.com/user-attachments/assets/e445a465-9216-482d-b010-42b755224214)
-![image](https://github.com/user-attachments/assets/7e3f6e7b-d9f4-42d9-afd9-dce12f53991c)
-![image](https://github.com/user-attachments/assets/ccba2090-b2d8-4bb7-ba45-8d4c2c5c3f94)
-![image](https://github.com/user-attachments/assets/4477dc12-29d6-41cf-b4ed-ae63707592c2)
-![image](https://github.com/user-attachments/assets/f9c73516-e52d-49ee-9a27-aa026372df58)
-![image](https://github.com/user-attachments/assets/f7cd91aa-402e-4862-bd6d-44ba8b93fd03)
-![image](https://github.com/user-attachments/assets/bed322f8-370d-4222-860b-eb8d323b7b64)
-![image](https://github.com/user-attachments/assets/9ff8fa03-5c47-43af-a185-bf6e1ae3e7ec)
-![image](https://github.com/user-attachments/assets/8700b0e8-4619-4cab-a7ca-8bef4c09dded)
-![image](https://github.com/user-attachments/assets/fa662fbe-e8f1-4b1d-a918-89bb71489b72)
-![image](https://github.com/user-attachments/assets/4965225c-5ee1-49ed-8ffd-801692338aea)
-![image](https://github.com/user-attachments/assets/4f8b4103-934a-4a43-855c-9c6b30cbbd93)
-![image](https://github.com/user-attachments/assets/ef80c189-983c-46cf-a2cb-529e8c62c344)
 
 
 
