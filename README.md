@@ -50,7 +50,7 @@
     <td>
         <figure style="text-align: center; display: block; margin: 0 auto;">
             <img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" width="200">
-            <figcaption style="display:block;">登入介面</figcaption>
+            <figcaption style="display:block; text-align: center;">登入介面</figcaption>
         </figure>
     </td>
 
@@ -63,6 +63,7 @@
     <td><img src="圖片URL6" alt="圖片描述6" width="100"></td>
   </tr>
 </table>
+
 
 
 
