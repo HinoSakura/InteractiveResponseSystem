@@ -43,3 +43,6 @@
 📌 學校 - 促進課堂互動，提升學習參與度。   
 📌 企業 - 讓企業講師能夠透過測驗即時掌握學員學習狀況。  
 📌 其他 - 因應各種教學、學習環境。  
+
+
+![image](https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519)
