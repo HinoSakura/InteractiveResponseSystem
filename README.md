@@ -1,6 +1,3 @@
-# InteractiveResponseSystem
-
-
 ## 📝 系統介紹
 
 本系統是一款專為課堂互動設計的 即時反饋系統（Interactive Response System, IRS），透過即時作答、數據分析、出缺席管理等功能，幫助教師快速掌握學生的學習狀況，提升教學成效。  
