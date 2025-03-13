@@ -48,7 +48,7 @@
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td>
-        <figure style="text-align: center; margin: 0 auto;">
+        <figure style="text-align: center; display: block; margin: 0 auto;">
             <img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" width="200">
             <figcaption style="display:block;">登入介面</figcaption>
         </figure>
