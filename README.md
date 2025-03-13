@@ -67,7 +67,7 @@
   <tr>
     <td colspan="3">
       <label for="contentInput">選擇介面 </label>
-      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 30px;">
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100; padding: 5px;">
     </td>
   </tr>
 
