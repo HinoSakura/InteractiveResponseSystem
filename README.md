@@ -80,16 +80,25 @@
 
 </table>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="3">
+      <label for="contentInput">新增題目 </label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3e0dcb3f-556b-4276-abb4-b0e8e9ea5a1f"  width="200"; height ="350"></td>
+    <td><img src="https://github.com/user-attachments/assets/1d73fd03-67e8-4adb-b5d4-a049527fbe39"  width="200"; height ="350"></td>
+  </tr>
+
+</table>
 
 
 
-
-
-
-
-![image]()
-![image](https://github.com/user-attachments/assets/3e0dcb3f-556b-4276-abb4-b0e8e9ea5a1f)
-![image](https://github.com/user-attachments/assets/1d73fd03-67e8-4adb-b5d4-a049527fbe39)
 ![image](https://github.com/user-attachments/assets/58149af6-87c5-45a4-abc7-7acb0fa8f5c7)
 ![image](https://github.com/user-attachments/assets/d9ff0d15-ee82-4ce7-9a12-5a77f9fe3711)
 ![image](https://github.com/user-attachments/assets/e445a465-9216-482d-b010-42b755224214)
