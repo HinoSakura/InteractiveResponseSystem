@@ -46,12 +46,18 @@
 
 
 <table border="1" cellpadding="5" cellspacing="0">
+  <!-- 新增一行用來放置輸入框 -->
+  <tr>
+    <td colspan="2">
+      <label for="contentInput">請填入內容：</label>
+      <input type="text" id="contentInput" name="contentInput" placeholder="在此輸入內容" style="width: 100%; padding: 5px;">
+    </td>
+  </tr>
+
+  <!-- 圖片顯示的行 -->
   <tr>
     <td>
-        <figure style="text-align: center; display: block; margin: 0 auto;">
-            <img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" width="200">
-            <figcaption style="display:block; text-align: center;">登入介面</figcaption>
-        </figure>
+        <img src="https://github.com/user-attachments/assets/ecaed69e-69bf-436b-b4ef-d2dd4b683519" width="200">
     </td>
   </tr>
   <tr>
@@ -59,6 +65,8 @@
     <td><img src="https://github.com/user-attachments/assets/0ac203ba-9013-4ffe-8efc-b7a35d363806" alt="圖片描述3" width="100"></td>
   </tr>
 </table>
+
+
 
 
 
