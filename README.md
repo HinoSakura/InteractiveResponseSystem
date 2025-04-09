@@ -47,7 +47,7 @@
 ## 📦 環境安裝與設定
 
 1️⃣ 安裝 Flutter 環境
-請先安裝 Flutter SDK，參考官方文件：[Flutter](https://docs.flutter.dev/)  
+請先安裝 Flutter SDK，參考文件：[Flutter](https://docs.flutter.dev/)  
 
 2️⃣ 專案下載
 
